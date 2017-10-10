@@ -7,5 +7,4 @@
 
 ### al llamar a esta funcion , el prgrama nos entrega nuestra palabra ingresada ya cifrado-cesar
 
-![diagrama de flujo](/c/Users/brenda/Documents/cifradoCesar/diagrama de flujo.jpg
-)
+![recursos](assets/img-read/diagrama de flujo.jpg)
